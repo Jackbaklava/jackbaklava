@@ -1,6 +1,6 @@
 <img src="https://github.com/Jackbaklava/Jackbaklava/blob/main/assets/github_banner.png">
 
-<h1>Hi there <img src="https://github.com/Jackbaklava/Jackbaklava/blob/main/assets/Hi.gif" width="40px">, I am Jackbaklava</h1>
+<h1>Hey there <img src="https://github.com/Jackbaklava/Jackbaklava/blob/main/assets/Hi.gif" width="40px">, I am Jackbaklava</h1>
 
 <ul>
   <li>⚛️ Full-Stack Web Developer</li>
