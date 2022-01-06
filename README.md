@@ -3,7 +3,7 @@
 <h1>Hey there <img src="https://github.com/Jackbaklava/Jackbaklava/blob/main/assets/Hi.gif" width="40px">, I am Jackbaklava</h1>
 
 <ul>
-  <li>⚛️ Full-Stack Web Developer</li>
+  <li>⚛️ Back-End Web Developer</li>
   <li>💻 Computer Nerd</li>
   <li>👾 Living in the terminal</li>
 </ul>
