@@ -4,7 +4,7 @@
 
 <ul>
   <li>⚛️ Back-End Web Developer</li>
-  <li>💻 Computer Nerd</li>
+  <li>💻 Computer Enthusiast</li>
   <li>👾 Living in the terminal</li>
 </ul>
 
